@@ -4,6 +4,8 @@ hrv command provide the http reverse connection to require inner netwok http ser
 
 it map http://\<public server address\>/\<prefix\>/\<url path\> to http://\<inner server address\>/\<url path\>
 
+![hrv](https://raw.githubusercontent.com/Centny/hrv/master/hrv.png)
+
 ## Install
 ```
 go get github.com/Centny/gwf
@@ -83,3 +85,7 @@ func RunHrvC(addr, base, token, name, alias string, log bool, hb int) {
 }
 ```
 see doc on `github.com/Centny/gwf/netw/hrv` for detail.
+
+## Example
+
+![hrv](https://raw.githubusercontent.com/Centny/hrv/master/hrv.png)
