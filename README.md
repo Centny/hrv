@@ -88,4 +88,4 @@ see doc on `github.com/Centny/gwf/netw/hrv` for detail.
 
 ## Example
 
-![hrv](https://raw.githubusercontent.com/Centny/hrv/master/hrv.png)
+![hrv](https://raw.githubusercontent.com/Centny/hrv/master/example.png)
